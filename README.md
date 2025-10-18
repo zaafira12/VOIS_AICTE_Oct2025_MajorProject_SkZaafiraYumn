@@ -2,8 +2,8 @@
 
 ## 1. Project Overview
 
-This project focuses on analyzing the evolution of Netflix's content catalog using a dataset containing details on Movies and TV Shows available on the platform[cite: 3, 4]. 
-The core objective is to perform a **Content Trends Analysis** to uncover how Netflix's content distribution has evolved over the years and provide **strategic recommendations** for future content acquisition and production[cite: 10, 11].
+This project focuses on analyzing the evolution of Netflix's content catalog using a dataset containing details on Movies and TV Shows available on the platform. 
+The core objective is to perform a **Content Trends Analysis** to uncover how Netflix's content distribution has evolved over the years and provide **strategic recommendations** for future content acquisition and production.
 
 The analysis spans content entries from **2008 to 2021**[cite: 6].
 
