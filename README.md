@@ -2,19 +2,20 @@
 
 ## 1. Project Overview
 
-[cite_start]This project focuses on analyzing the evolution of Netflix's content catalog using a dataset containing details on Movies and TV Shows available on the platform[cite: 3, 4]. [cite_start]The core objective is to perform a **Content Trends Analysis** to uncover how Netflix's content distribution has evolved over the years and provide **strategic recommendations** for future content acquisition and production[cite: 10, 11].
+This project focuses on analyzing the evolution of Netflix's content catalog using a dataset containing details on Movies and TV Shows available on the platform[cite: 3, 4]. 
+The core objective is to perform a **Content Trends Analysis** to uncover how Netflix's content distribution has evolved over the years and provide **strategic recommendations** for future content acquisition and production[cite: 10, 11].
 
-[cite_start]The analysis spans content entries from **2008 to 2021**[cite: 6].
+The analysis spans content entries from **2008 to 2021**[cite: 6].
 
 ## 2. Problem Statement
 
-[cite_start]Netflix must strategically analyze its content catalog to identify strengths, gaps, and opportunities due to growing competition from platforms like Amazon Prime and Disney+[cite: 9].
+Netflix must strategically analyze its content catalog to identify strengths, gaps, and opportunities due to growing competition from platforms like Amazon Prime and Disney+[cite: 9].
 
-[cite_start]The specific problem addressed is: **'Content Trends Analysis for Strategic Recommendations'**[cite: 10].
+The specific problem addressed is: **'Content Trends Analysis for Strategic Recommendations'**[cite: 10].
 
 ## 3. Objectives
 
-[cite_start]The analysis is driven by the following key objectives[cite: 19]:
+The analysis is driven by the following key objectives[cite: 19]:
 
 1.  **Content Type Distribution:** Analyze the distribution of Movies vs. TV Shows over the years.
 2.  **Genre Popularity:** Identify the most common genres and how their popularity has changed.
@@ -22,7 +23,7 @@
 
 ## 4. Dataset
 
-[cite_start]The project utilizes a Netflix dataset with **7,789 records** and **11 columns**[cite: 3].
+The project utilizes a Netflix dataset with **7,789 records** and **11 columns**[cite: 3].
 
 | Attribute | Description |
 | :--- | :--- |
