@@ -39,4 +39,6 @@ The project utilizes a Netflix dataset with **7,789 records** and **11 columns**
 | `duration` | Duration (e.g., 90 min, 2 Seasons). |
 | `listed_in` | [cite_start]**Genres** the content falls under[cite: 5]. |
 
+<img width="1311" height="666" alt="image" src="https://github.com/user-attachments/assets/5bc6403c-432e-4ed8-81dd-62209c74b937" />
+
 
